@@ -1,6 +1,6 @@
 # A Puppet Control Repository
 
-![Onceover](https://github.com/jjackzhn/control-repo/workflows/Onceover/badge.svg?branch=production)
+![Onceover](https://github.com/jjackzhn/control-repo/workflows/Onceover/badge.svg)
 
 * [What You Get From This control\-repo](#what-you-get-from-this-control-repo)
 * [Copy This Repo Into Your Own Git Server](#copy-this-repo-into-your-own-git-server)
