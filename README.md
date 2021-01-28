@@ -1,5 +1,7 @@
 # A Puppet Control Repository
 
+![Onceover](https://github.com/jjackzhn/control-repo/workflows/Ruby/badge.svg?branch=production)
+
 * [What You Get From This control\-repo](#what-you-get-from-this-control-repo)
 * [Copy This Repo Into Your Own Git Server](#copy-this-repo-into-your-own-git-server)
   * [GitLab](#gitlab)
