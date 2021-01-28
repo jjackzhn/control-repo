@@ -34,6 +34,3 @@ test_matrix:
   - all_nodes:
       classes: 'all_classes'
       tests: 'spec'
-  - non_windows_nodes: 
-      classes: 'all_classes'
-      tests: 'acceptance'
